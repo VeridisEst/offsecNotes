@@ -1,1 +1,3 @@
 #pattern  filter=crypt diff=crypt merge=crypt
+fileOne filter=crypt diff=crypt merge=crypt
+/prepCourseNotes/* filter=crypt diff=crypt merge=crypt

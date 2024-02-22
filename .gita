@@ -1,2 +1,0 @@
-fileOne filter=crypt diff=crypt merge=crypt
-/prepCourseNotes/* filter=crypt diff=crypt merge=crypt
