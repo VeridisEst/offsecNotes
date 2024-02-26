@@ -88,6 +88,124 @@ very often seen vuln, good one to start with because it targets the _user_ of a 
 XSS is often weirdly intuitive.
 Fun fact: XSS, since it targets users, is both a Web App attack and a Client-Side Attacks
 
+### Common Web Application Attacks
+
+### Directory traversal
+obtain access to info we're not supposed tool 
+
+### File inclusions
+Advantage of ability to upload our own files to a web server 
+
+### File Upload Vulnerabilities
+Upload own files to a server > Exploit it 
+
+### Command injection
+Run code of choice
+
+### SQL injection 
+too common not to include 
+
+### Client side Attacks 
+very common external class of attacks. Take advantage of the human. Exploid common programs like Microsoft Office and Library Files 
+
+## Other perimeter attacks
+
+### Locating Public Exploits
+How to use Kali and find exploits _on the internet_
+(exploit-db.com)
+
+### Fixing Exploits
+Don't patch, lemme change the exploit 
+
+### Anti Virus Evasion
+Not a perimeter attack, but it will be helpful
+
+### Password attacks 
+Also includes cryptography
+
+## Privilege escalation and Lateral Movement
+Important because it gives more access
+We always want to ask ourselves what the biggest impact our attacks can have on the network to provide the most value for our clients.
+
+### Privileges
+
+### Windows Privilege escalation
+
+### Linux Privilege escalation
+Repeats the last one and adds a dash of Linux
+
+### Port Redirection and SSH tunneling
+
+#### pivoting
+Move into another machine on the network
+
+#### tunneling
+Move to another subnet
+
+#### Tunneling through Deep Packet Inspection
+particular technique that can be used to evade a common network-layer defense
+
+### The Metasploit Framework (MSF)
+MSF is a powerful set of tools that help us automate many of the enumeration and exploitation steps already covered
+
+## Challenge Lab Preparation
+After already doing 300 excercises, exploiting over 25 machines, it's time to put it together
+
+### Assembling the Pieces
+Walk the learner through a simulated pentest of five machines 
+Everything from _Information gathering_ to _Lateral Movement in Active Directory_ are needed
+
+### Trying Harder: The Challenge Labs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

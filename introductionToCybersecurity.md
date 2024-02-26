@@ -21,4 +21,23 @@ While learning hacking skills is (of course) essential for aspiring penetration 
 
 Conversely, it's been our experience that many of the best penetration testers and web application hackers are those who have had extensive exposure to defending networks, building web applications, or administrating systems.
 
+## Principles 
+
+The principle of least privilege - only grant each part within a system the lowest possible privileges needed to achieve it's task.
+
+Zero trust - ultimate conclusion of least privilege.
+
+Open security - Security is not dependend on _secrecy_. "Even if an attacker knows exactly how the security is implemented, the attacker should still be thwarted." This isn't to say that nothing should be secret. Credentials are a clear case where the security of a password depends on its secrecy. However, we'd want our system to be secure even if the attacker knows there is a password, and even if they know the cryptographic algorithm behind it.
+
+Defense in Depth - add defenses to as many layers of a system as possible, so if one is bypassed another may prevent full infiltration.
+
+Threat modeling - Threat modeling describes taking data from real-world adversaries and evaluating those attack patterns and techniques against our people, processes, systems, and software. It is important to consider how the compromise of one system in our network might impact others.
+
+Threat Intelligence -  data that has been refined in the context of the organization: actionable information that an organization has gathered via threat modeling about a valid threat to that organization's success. **Information isn't considered threat intelligence unless it results in an action item for the organization. The existence of an exploit is not threat intelligence;**  however, it is potentially useful information that might lead to threat intelligence.
+
+# Extra sources
+
+David Wheeler's [website](https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/follow-good-principles.html)
+[OWASP cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html#security-principles)
+[OWASP whitepaper](https://secure-it-is.nl/whitepaper/)
 
