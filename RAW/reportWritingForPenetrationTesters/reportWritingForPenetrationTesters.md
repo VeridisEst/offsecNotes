@@ -118,14 +118,136 @@ We now have a simple, fast, and expandable way to take coherent and comprehensiv
 
 ## Choosing the Right Note-Taking Tool
 
+There are an enormous number of both free and paid note-taking tools available today. To decide on the right tool for a particular engagement, it is important to understand some requirements. In many cases we want to keep all information local to the computer rather than uploading it anywhere else, so certain tools are precluded from being used. By the same token, if an engagement is source-code heavy then a tool that does not allow for code blocks to be inserted is not going to be appropriate.
 
+While a comprehensive list of desirable properties to keep in mind is nearly impossible to enumerate, some of the more important items to remember are:
+
+- **Screenshots**: If a lot of screenshots are necessary, consider a tool that allows for inline screenshot insertion.
+
+- **Code blocks**: Code blocks need formatting to be properly and quickly understood.
+
+- **Portability**: Something that can be used cross-OS, or easily transferred to another place should be high on the list of priorities.
+
+- **Directory Structure**: In an engagement with multiple domains or applications, keeping a coherent structure is necessary. While manually setting up a structure is allowed, a tool that can do this automatically makes things easier.
+
+Now that we have a good baseline of our requirements, let’s consider the use of some particular note-taking tools.
+
+Sublime1 is a pretty standard text editor that adds lots of useful features and functionality. One of the most important features it provides is flexible syntax highlighting. Syntax highlighting allows us to place code blocks into a file, and those code blocks will be highlighted according to the programming language's specific syntax rules. However, this often comes with limitations. Highlighting two languages is not possible with one file. In an engagement with a single code type, this is not a problem, but for others, we may prefer to use different options. Additionally, it's not currently possible to inline screenshots at the time of writing.
+
+Another tool we can consider is CherryTree.2 This tool comes as standard in Kali. It contains many of the features that are necessary for note-taking. It uses an SQLite database to store the notes we take, and these can be exported as HTML, PDF, plain text, or as a CherryTree document. CherryTree comes with a lot of built-in formatting, and provides a tree structure to store documents, which it calls "nodes" and "subnodes".
+
+Below is an example of CherryTree being used to store penetration testing notes using a fairly simple tree structure.
+
+![CherryTree](CherryTree.png "CherryTree")
+Figure 3: CherryTree
+
+The final tool we'll consider is the Obsidian3 markdown editor, which contains all the features that we need for note-taking. We can install Obsidian as a snap4 application or in its Flatpak5 application form. It also comes as an AppImage,6 meaning that all we need to do is copy it into our system, mark it as executable, and run it.
+
+ `kali@kali:~$ wget https://github.com/obsidianmd/obsidian-releases/releases/download/v0.14.2/Obsidian-0.14.2.appimage
+....
+2022-03-31 15:38:53 (1.28 MB/s) - 'Obsidian-0.14.2.AppImage' saved [113102744/113102744]
+kali@kali:~$ chmod +x Obsidian-0.14.2.AppImage
+kali@kali:~$ ./Obsidian-0.14.2.AppImage`
+
+Listing 2 - Getting and Running Obsidian
+
+When we execute the AppImage, we get a welcome screen, which enables us to open an Obsidian vault or create a new one.
+
+![Obsidian Welcome Screen](Obsidian_Welcome_Screen.png "Obsidian Welcome Screen")
+Figure 4: Obsidian Welcome Screen
+
+Obsidian stores information in a Vault, which is a folder on our system. We can create both markdown files and folders within the Vault. Obsidian's features include a live preview of markdown text, in-line image placement, code blocks, and a multitude of add-ons such as a community-built CSS extension.
+
+An example of directly entering notes in markdown is shown below:
+
+![Taking Notes in Obsidian](Taking_Notes_in_Obsidian.png "Taking Notes in Obsidian")
+Figure 5: Taking Notes in Obsidian
+
+Then, it's can be previewed live by Obsidian.
+
+![Live Preview of Markdown](Live_Preview_of_Markdown.png "Live Preview of Markdown")
+Figure 6: Live Preview of Markdown
+
+An Obsidian vault can be relocated to another computer and opened from the Welcome menu. Markdown files can simply be dropped into the Vault folders, which will automatically be recognized by Obsidian.
+
+The use of markdown means that we can provide syntax and formatting that is easily copied to most report generation tools, and a PDF can be generated straight from Obsidian itself.
+
+Tool selection is a personal and situational preference. Some tools are better in certain scenarios than others, but there isn't a perfect tool. It is recommended to take time and try out the tools we've covered, read the documentation, get familiar with them, and then decide which tool works for you. Some additional tools can be found referenced on nil0x42's7 website.
+1(Sublime, 2022), https://www.sublimetext.com/download 
+2(Cherry Tree, 2022), https://github.com/giuspen/cherrytree 
+3(Obsidian, 2022), https://obsidian.md/ 
+4(SnapCraft, 2022), https://snapcraft.io/ 
+5(Flatpak, 2022), https://flatpak.org/ 
+6(AppImage, 2022), https://appimage.org/ 
+7(nil0x42, 2022), https://github.com/nil0x42/awesome-hacker-note-taking 
 
 ## Taking Screenshots
 
+Screenshots are an important part of note-taking and technical reporting. A good screenshot can explain the issue being discussed at a glance and in more detail than a textual description. Screenshots are particularly useful to help present a technically complex or detail-heavy section of a report. As the saying goes, a picture is worth 1000 words. Conversely, a bad screenshot can obfuscate and draw attention away from what the issue is.
+
+Screenshots are an important way to communicate the visual impact of a finding, and can be far more effective than mere text. For example, it's more effective to show a screenshot of an alert box popping up from an XSS payload than to describe it in words. However, it's more difficult to use a screenshot to describe exactly what's happening when we use something like a buffer overflow payload. Just like we want to use the right tool to perform certain attacks, so we also want to use the right tool to show certain results (such as text vs images).
+
+We can use screenshots to supplement our note-taking or to include them in our report to illustrate the steps we took, which will help another tester reproduce the issues. However, we need to be conscious of the audience. While a penetration tester may consider an alert window to demonstrate XSS as perfectly self-explanatory, developers unfamiliar with the vulnerability may not understand its true cause or impact. It's good practice to always support a screenshot with text.
+
+Screenshots have a specific goal, which is to convey information that would take several sentences to describe or to make an impact. With this in mind, the screenshot should contain exactly enough information to justify not using text, but there shouldn't be too much information to make the screenshot confusing.
+
+To return to the example given above in the notes section, we have found reflected XSS in the username field of the application login. We will properly explain the effects of XSS in the actual report. However, the impact of XSS is far easier to show rather than explain without a visual reference as a base. We must include evidence of arbitrary JavaScript execution, as well as visual components of the site (i.e. the URL in the browser window). If necessary, secondary or lead-up steps can be captured as well.
+
+A well-constructed screenshot is easy to parse visually. Readers should be able to intuitively understand the picture and its caption without any questions. If there is a greater need for surrounding context, that can be added in a paragraph above or below the image, but the image itself should be understood.
+
+Once again, using the example of XSS in our login form, we will include the following components in the screenshot, resizing the window if necessary. Ideally, we would include the URL as well as some company-specific branding and logos on the form. This lets them know the exact webpage and ties the vulnerability to their corporate image.
+
+The actual pop-up executed in the proof-of-concept is necessary as well, substituted for any more advanced payload as the proof of concept is slowly taken further. Finally, we want to ensure that it is all legible. A screenshot that needs to be zoomed in to be properly viewed disrupts the reader's flow. A good screenshot is immediately legible, as shown below.
+
+![Good Screenshot](Good_Screenshot.png "Good Screenshot")
+Figure 7: Good Screenshot
+
+There are several pitfalls we should avoid when using screenshots. We have already discussed making sure the screenshots are legible. We must also ensure there isn't more than one concept illustrated in each screenshot. A screenshot that contains two pieces of pertinent information does not lend itself to being easily understood at a glance. We must also ensure the impact is framed properly in the screenshot. Having the target of the screenshot off-center at the side obfuscates the intent as well. Finally, the caption for the screenshot shouldn't be overly long.
+
+![Bad Screenshot](Bad_Screenshot.png "Bad Screenshot")
+Figure 8: Bad Screenshot
+
+The screenshot above covers the important information with an irrelevant piece of information, which prevents the full impact of the screenshot from being understood by the reader.
+
+To recap, a good screenshot has the following characteristics:
+
+- is legible
+- contains some visual indication that it applies to the client-specific
+- contains the material that is being described
+- supports the description of the material
+- properly frames the material being described
+
+On the other hand, a bad screenshot is one that:
+
+- is illegible
+- is generic rather than client-specific
+- contains obfuscated or irrelevant information
+- is improperly framed
+
+Under the screenshot, we include a caption. A caption is not meant to provide additional context for the picture. A caption is there to describe the picture in a few words. Any additional context that is necessary can be provided in a separate paragraph. In most cases, eight to ten words is an appropriate maximum for a caption.
 
 
 ## Tools to Take Screenshots
 
+We can take screenshots using native operating system capabilities. Windows, Linux, and macOS all provide tools to take screenshots. We can also use special-purpose tools.
 
+For Windows, the PrintScreen key allows us to take a copy of the full screen, and Alt/PrtSc takes a screenshot of the currently active window. This can then be pasted into a Paint, Word, or PowerPoint document and manipulated as required. We'll often want to crop the image to remove any unwanted material, and we can do that in these applications.
+
+We can also invoke the Windows Snipping Tool1 by pressing the Windows key together with Shift/S.
+
+![Snipping tool](Snipping_Tool.png "Snipping Tool")
+Figure 9: Snipping Tool
+
+The Snipping tool allows us to highlight and take a screenshot of any area of the screen we choose.
+
+MacOS provides the capability to take a screenshot using the keyboard Shift/Command combination with the numeric keys 3, 4, or 5 key. To select and save the entire screen, we can use F+B+3. To highlight and select a specific area on the screen, we can simply use F+B+4 or F+B+5.
+
+We can take a screenshot in Linux using the PrintScreen key. This will capture and save the entire screen to the user’s Images/ directory. B+PrintScreen will allow for area highlighting and selection. In Kali Linux, we can also use the Screenshot tool which is installed by default and comes with many options such as choosing the active window, selecting a region, adding a delay before taking the actual screenshot, etc.
+
+Flameshot2 is an OS-agnostic, open-source, feature-rich screen-capturing tool. It comes with both a command-line and GUI interface and has integrated drawing tools to add highlights, pixelation, text, and other modifications to the captured image.
+
+1(Wikipedia, 2022), https://en.wikipedia.org/wiki/Snipping_Tool 
+
+2(Flameshot, Github, 2022), https://github.com/flameshot-org/flameshot 
 
 
