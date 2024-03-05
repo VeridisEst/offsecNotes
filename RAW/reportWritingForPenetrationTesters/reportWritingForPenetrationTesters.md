@@ -250,4 +250,41 @@ Flameshot2 is an OS-agnostic, open-source, feature-rich screen-capturing tool. I
 
 2(Flameshot, Github, 2022), https://github.com/flameshot-org/flameshot 
 
+# Writing Effective Technical Penetration Testing Reports
 
+In this Learning Unit we'll cover the following Learning Objectives:
+
+- Identify the purpose of a technical report
+- Understand how to specifically tailor content
+- Construct an Executive Summary
+- Account for specific test environment considerations
+- Create a technical Summary
+- Describe technical findings and recommendations
+- Recognize when to use appendices, resources and references
+
+
+## Identify the purpose of a technical report
+
+
+
+## Understand how to specifically tailor content
+
+
+
+## Construct an Executive Summary
+
+
+
+## Account for specific test environment considerations
+
+
+
+## Create a technical Summary
+
+
+
+## Describe technical findings and recommendations
+
+
+
+## Recognize when to use appendices, resources and references
