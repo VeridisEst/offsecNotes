@@ -20,3 +20,7 @@ To add in the script:
 - find all .md files in the folder structure
 - convert all .md files in the folder structure to pdf
 
+Current way of 'going to solve':
+Add all documents by hand in the script. That way it at least works! 
+
+NOTE: Would 'for file in directory { work?'
