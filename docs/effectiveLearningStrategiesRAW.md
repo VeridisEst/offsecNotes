@@ -43,25 +43,25 @@ As instructors, our ultimate goal is to create a highly-effective learning envir
 However, before we can discuss more practical strategies, let's explore some of the current research in the field of learning theory to understand how it's best applied.
 1
 
-(encyclopedia.com, 2022), https://www.encyclopedia.com/psychology/encyclopedias-almanacs-transcripts-and-maps/learning-theory-history ↩︎
+(encyclopedia.com, 2022), https://www.encyclopedia.com/psychology/encyclopedias-almanacs-transcripts-and-maps/learning-theory-history 
 2
 
-(Kieschnick, 2018), https://www.hmhco.com/blog/class-size-matters ↩︎
+(Kieschnick, 2018), https://www.hmhco.com/blog/class-size-matters 
 3
 
-(Chen, 2022), https://www.publicschoolreview.com/blog/the-pros-and-cons-of-mandatory-gym-class-in-public-schools ↩︎
+(Chen, 2022), https://www.publicschoolreview.com/blog/the-pros-and-cons-of-mandatory-gym-class-in-public-schools 
 4
 
-(Carnevale, Fasules, Quinn, and Campbell, 2019), https://1gyhoq479ufd3yna29x7ubjn-wpengine.netdna-ssl.com/wp-content/uploads/FR-Born_to_win-schooled_to_lose.pdf ↩︎
+(Carnevale, Fasules, Quinn, and Campbell, 2019), https://1gyhoq479ufd3yna29x7ubjn-wpengine.netdna-ssl.com/wp-content/uploads/FR-Born_to_win-schooled_to_lose.pdf 
 5
 
-(wbur, 2018), https://www.wbur.org/hereandnow/2018/08/27/public-private-school-family-income-study ↩︎
+(wbur, 2018), https://www.wbur.org/hereandnow/2018/08/27/public-private-school-family-income-study 
 6
 
-(Nancekivell, 2019), https://www.apa.org/news/press/releases/2019/05/learning-styles-myth ↩︎
+(Nancekivell, 2019), https://www.apa.org/news/press/releases/2019/05/learning-styles-myth 
 7
 
-(May, 2018), https://www.scientificamerican.com/article/the-problem-with-learning-styles/ ↩︎
+(May, 2018), https://www.scientificamerican.com/article/the-problem-with-learning-styles/ 
 
 ## Memory Mechanisms and Dual Coding
 
@@ -95,10 +95,10 @@ The image shown above is more than just an illustration of Dual Coding; it's is 
 There is an increasing amount of research, including repeatable experiments and evidence from neuroimaging, that supports Dual Coding as an effective learning strategy.2
 1
 
-(Harvard, 2022), https://bokcenter.harvard.edu/how-memory-works ↩︎
+(Harvard, 2022), https://bokcenter.harvard.edu/how-memory-works 
 2
 
-(Cuevas, 2014), https://sciencebasedmedicine.org/brain-based-learning-myth-versus-reality-testing-learning-styles-and-dual-coding/ ↩︎
+(Cuevas, 2014), https://sciencebasedmedicine.org/brain-based-learning-myth-versus-reality-testing-learning-styles-and-dual-coding/ 
 
 ## The Forgetting Curve and Cognitive load
 
@@ -122,16 +122,16 @@ To remedy this, instructors may try reducing what is called "extraneous load." T
 It's easy to imagine how disorganized instructional materials might increase cognitive load, but the same is also true for the classroom or environment where the learner is physically located. A noisy coffee shop is full of smells, conversations, people, and movement--all of which our brains are constantly taking in. In the case of online learning, learners may need to reduce extraneous load in the physical learning space itself. We'll explore this more later.
 1
 
-(Borges, 1962), http://vigeland.caltech.edu/ist4/lectures/funes borges.pdf ↩︎
+(Borges, 1962), http://vigeland.caltech.edu/ist4/lectures/funes borges.pdf 
 2
 
-(wikipedia, 2022), https://en.wikipedia.org/wiki/Forgetting_curve ↩︎
+(wikipedia, 2022), https://en.wikipedia.org/wiki/Forgetting_curve 
 3
 
-(Schaefer, 2015), https://www.inkling.com/blog/2015/08/why-google-changed-forgetting-curve/ ↩︎
+(Schaefer, 2015), https://www.inkling.com/blog/2015/08/why-google-changed-forgetting-curve/ 
 4
 
-(Loveless, 2022), https://www.educationcorner.com/cognitive-load-theory/ ↩︎
+(Loveless, 2022), https://www.educationcorner.com/cognitive-load-theory/ 
 
 # Unique Challenges to Learning Technical Skills
 
@@ -157,13 +157,13 @@ The second, and perhaps the more important thing to note here, has to do with a 
 In other words, when the training material is presented in the same context as the skill that we're trying to learn, our brain has to do less translation work and can accept the new information more readily. This doesn't mean that books about computers are worthless - it just means that our brains have to do more work to assimilate information from the page and think about it in the context of the computer screen.
 1
 
-(Szalavitz, 2012), https://healthland.time.com/2012/03/14/do-e-books-impair-memory/ ↩︎
+(Szalavitz, 2012), https://healthland.time.com/2012/03/14/do-e-books-impair-memory/ 
 2
 
-(Oxford Learning, 2021), https://www.oxfordlearning.com/reading-online-vs-offline-whats-best-for-learning/ ↩︎
+(Oxford Learning, 2021), https://www.oxfordlearning.com/reading-online-vs-offline-whats-best-for-learning/ 
 3
 
-(Imel, 2000), https://files.eric.ed.gov/fulltext/ED448304.pdf ↩︎
+(Imel, 2000), https://files.eric.ed.gov/fulltext/ED448304.pdf 
 
 ## Expecting the Unexpected
 
@@ -180,7 +180,7 @@ Let's return briefly to our example of learning how to secure a network. We ment
 Later in this Module we will discuss some potential approaches that can help us do this.
 1
 
-(Lopez and Rodriguez-Lopez, 2020), https://ervet-journal.springeropen.com/articles/10.1186/s40461-020-00100-0 ↩︎
+(Lopez and Rodriguez-Lopez, 2020), https://ervet-journal.springeropen.com/articles/10.1186/s40461-020-00100-0 
 
 ## The Challenges of Remote and Asynchronous Learning
 
@@ -194,12 +194,12 @@ learners in a remote, asynchronous learning environment should be aware of two t
     The pace and timing of the course is largely the learner's responsibility.
 
 We will discuss some practical solutions to the second item shortly, but in order to connect with a wider community of learners, Offensive Security learners have a community of co-learners available on the OffSec Discord Server.2 There may also be local meetups or other communities available to a learner. Seeking out support and help (as well as helping and supporting others in turn) has benefits far beyond the classroom as well.
-1
+1  
 
-(Minnesota State, 2022), https://careerwise.minnstate.edu/education/successonline.html ↩︎
+(Minnesota State, 2022), https://careerwise.minnstate.edu/education/successonline.html 
 2
 
-(OffSec, 2022), https://offs.ec/discord ↩︎
+(OffSec, 2022), https://offs.ec/discord 
 
 # OffSec Training Methodology
 
@@ -215,7 +215,7 @@ This Learning Unit covers the following Learning Objectives:
 
 1
 
-(Hackathorn, Solomon, Blankmeyer, et al., 2011), https://eric.ed.gov/?id=EJ1092139 ↩︎
+(Hackathorn, Solomon, Blankmeyer, et al., 2011), https://eric.ed.gov/?id=EJ1092139 
 
 ## The Demonstration Method 
 
@@ -246,10 +246,10 @@ While it may seem unnecessary to include these extra items, this sort of demonst
 Sometimes the material will take what feels like a longer route in order to show both the new skill and a useful context. It may also actively expose and discuss the instructor's "mistakes" and redirections. Demonstrating a thought process in this manner is called modeling,1 and was developed as a way to teach critical thinking skills.2
 1
 
-(Wikipedia, 2023), https://en.wikipedia.org/wiki/Instructional_modeling ↩︎
+(Wikipedia, 2023), https://en.wikipedia.org/wiki/Instructional_modeling 
 2
 
-(Daniel, Lafortune, Pallascio, et al., 2005), https://www.researchgate.net/profile/Marie-france_Daniel/publication/262849880_Modeling_the_Development_Process_of_Dialogical_Critical_Thinking_in_Pupils_Aged_10_to_12_Years/links/54ee0f110cf25238f93984dd.pdf ↩︎
+(Daniel, Lafortune, Pallascio, et al., 2005), https://www.researchgate.net/profile/Marie-france_Daniel/publication/262849880_Modeling_the_Development_Process_of_Dialogical_Critical_Thinking_in_Pupils_Aged_10_to_12_Years/links/54ee0f110cf25238f93984dd.pdf 
 
 
 ## Learning by doing 
@@ -274,16 +274,16 @@ Finally, we leverage assessments and exams. These are exercises and networked la
 With this in mind, the skills and methods learners will learn in the courses are directly applicable in the assessment and exam environments.
 1
 
-(Koedinger, McLaughlin, Kim, et al., 2015), http://pact.cs.cmu.edu/pubs/koedinger, Kim, Jia, McLaughlin, Bier 2015.pdf ↩︎
+(Koedinger, McLaughlin, Kim, et al., 2015), http://pact.cs.cmu.edu/pubs/koedinger, Kim, Jia, McLaughlin, Bier 2015.pdf 
 2
 
-(Bates, 2015): https://opentextbc.ca/teachinginadigitalage/chapter/4-4-models-for-teaching-by-doing/ ↩︎
+(Bates, 2015): https://opentextbc.ca/teachinginadigitalage/chapter/4-4-models-for-teaching-by-doing/ 
 3
 
-(Boser, 2020): https://www.the-learning-agency-lab.com/the-learning-curve/learning-by-doing/ ↩︎
+(Boser, 2020): https://www.the-learning-agency-lab.com/the-learning-curve/learning-by-doing/ 
 4
 
-(Djavad Mowafaghain Centre for Brain Health, 2018): https://www.centreforbrainhealth.ca/news/learning-doing-better-retention-learning-watching/ ↩︎
+(Djavad Mowafaghain Centre for Brain Health, 2018): https://www.centreforbrainhealth.ca/news/learning-doing-better-retention-learning-watching/ 
 
 
 ## Facing Difficulty
@@ -309,10 +309,10 @@ Getting stuck isn't fun, but we believe that being comfortable in a situation wh
 To that end, we have written about this notion, which we call The Try Harder Mindset, in greater detail and with some specific strategies elsewhere.2
 1
 
-(Kerr and Booth, 1978), https://pubmed.ncbi.nlm.nih.gov/662537/ ↩︎
+(Kerr and Booth, 1978), https://pubmed.ncbi.nlm.nih.gov/662537/ 
 2
 
-(OffSec, 2019), https://www.offsec.com/offsec/what-it-means-to-try-harder/ ↩︎
+(OffSec, 2019), https://www.offsec.com/offsec/what-it-means-to-try-harder/ 
 
 
 ## Contextual Learning and Interleaving
@@ -324,10 +324,10 @@ Teaching this way takes more time; however, learning new skills in a realistic c
 learners may also find that when information is presented in context, they are actually learning several things at once. For example, if we are learning about how an attack method might be both executed and detected at the same time, our brain can make more connections to help us learn effectively. This method is called interleaving.2
 1
 
-(Osika, MacMahon, Lodge, Carroll, 2022), https://www.timeshighereducation.com/campus/contextual-learning-linking-learning-real-world ↩︎
+(Osika, MacMahon, Lodge, Carroll, 2022), https://www.timeshighereducation.com/campus/contextual-learning-linking-learning-real-world 
 2
 
-(University of Arizona, 2022), https://academicaffairs.arizona.edu/l2l-strategy-interleaving ↩︎
+(University of Arizona, 2022), https://academicaffairs.arizona.edu/l2l-strategy-interleaving 
 
 # Case Study: chmod -x chmod
 
@@ -346,7 +346,7 @@ This Learning Unit covers the following Learning Objectives:
 
 1
 
-(Arora, 2013), https://www.thegeekstuff.com/2013/02/sticky-bit/ ↩︎
+(Arora, 2013), https://www.thegeekstuff.com/2013/02/sticky-bit/ 
 
 ## What is executable permission
 
@@ -417,16 +417,16 @@ zsh: permission denied: ./find_employee_names.py`
 We're back where we started now with the same error message as before. From this small experiment, we should have a very basic understanding of the executable permission bit, the chmod tool, and the +x and -x options.
 1
 
-(Study Tonight, 2022), https://www.studytonight.com/linux-guide/understanding-file-permissions-in-linux-unix ↩︎
+(Study Tonight, 2022), https://www.studytonight.com/linux-guide/understanding-file-permissions-in-linux-unix 
 2
 
-(Rani, 2021), https://www.geeksforgeeks.org/touch-command-in-linux-with-examples/ ↩︎
+(Rani, 2021), https://www.geeksforgeeks.org/touch-command-in-linux-with-examples/ 
 3
 
-(Verma, 2021), https://www.geeksforgeeks.org/practical-applications-ls-command-linux/ ↩︎
+(Verma, 2021), https://www.geeksforgeeks.org/practical-applications-ls-command-linux/ 
 4
 
-(Linux Foundation, 2022), https://www.linuxfoundation.org/blog/blog/classic-sysadmin-understanding-linux-file-permissions ↩︎
+(Linux Foundation, 2022), https://www.linuxfoundation.org/blog/blog/classic-sysadmin-understanding-linux-file-permissions 
 
 
 ## Going Deeper: Encountering a Strange Problem 
@@ -564,10 +564,10 @@ This worked.
 It may be too early to call ourselves "hackers". However, finding unique ways to gain permissions unintended by a particular system is at the core of cyber security. This quick example offers a solid start.
 1
 
-(Linuxize, 2021), https://linuxize.com/post/linux-cat-command/ ↩︎
+(Linuxize, 2021), https://linuxize.com/post/linux-cat-command/ 
 2
 
-(Aruchamy, 2021), https://www.baeldung.com/linux/sudo-command ↩︎
+(Aruchamy, 2021), https://www.baeldung.com/linux/sudo-command 
 
 
 ## Analyzing this approach
@@ -628,7 +628,7 @@ There is often more than one way to accomplish any goal, and we encourage you to
 This experiment-and-experiment-again mindset is at the heart of what we believe it takes to be highly successful in this field, and at the risk of being redundant, the goal of our training is always to teach the methodology and the mindset.
 1
 
-(Samson, 2015), https://files.eric.ed.gov/fulltext/EJ1069715.pdf ↩︎
+(Samson, 2015), https://files.eric.ed.gov/fulltext/EJ1069715.pdf 
 
 # Tactics and Common Methods
 
@@ -674,7 +674,7 @@ Finally, we will complete the summary section as we review our notes. To continu
 
 - this is an opportunity to reflect on our own interest, knowledge, and the study experience itself as well. Later in this Module, we will explore how self-reflection can be helpful.
 
-1(Cornell University, 2022), https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/ ↩︎
+1(Cornell University, 2022), https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/ 
 
 ## Retrieval Practice 
 
@@ -690,9 +690,9 @@ This method can be used in a number of different ways, but often takes full adva
 
 Creating actual challenges can be difficult. Learners have a few options here. The most obvious is to complete the included challenges for every Module. Whenever possible, these challenges do not simply repeat the information or the methods included in the Module, but ask the learner to go just one step further. Another option is to return to a completed hands-on exercise and repeat it. Finally, some courses include challenge labs, which are virtual machines that allow for a more hands-on retrieval practice or self-testing.
 
-1(Pan for UCSD Psychology, 2022), https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html ↩︎
-2(Smith and Weinstein, 2016), https://www.learningscientists.org/blog/2016/6/23-1 ↩︎
-3(Gromada, 2021), https://www.mindedge.com/learning-science/the-leitner-system-how-does-it-work/ ↩︎
+1(Pan for UCSD Psychology, 2022), https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html 
+2(Smith and Weinstein, 2016), https://www.learningscientists.org/blog/2016/6/23-1 
+3(Gromada, 2021), https://www.mindedge.com/learning-science/the-leitner-system-how-does-it-work/ 
 
 ## Spaced Practice
 
@@ -702,7 +702,7 @@ Spaced practice has to do with the timing and duration of our study time. It is 
 
 The exact duration and space between study sessions will be different for each individual. Taking breaks and walking away from the computer screen for five or ten minutes can be very helpful. Take a nap or get some sleep. Do an activity that has nothing to do with your studies at all to space practice.
 
-1(Smith and Weinstein, 2016), https://www.learningscientists.org/blog/2016/7/21-1 ↩︎
+1(Smith and Weinstein, 2016), https://www.learningscientists.org/blog/2016/7/21-1 
 
 ## The SQ3R Method
 
@@ -722,8 +722,8 @@ Finally, in the review, a learner returns to all of the smaller sections from a 
 
 For learners who have been taught that note taking is simply "writing down things that seem important", the SQ3R method represents an alternative that is much more effective.
 
-1(Virginia Tech, 2022), https://ucc.vt.edu/academic_support/study_skills_information/sq3r_reading-study_system.html ↩︎
-2(Logsdon, 2020), https://www.verywellfamily.com/strategy-improves-reading-comprehension-2162266 ↩︎
+1(Virginia Tech, 2022), https://ucc.vt.edu/academic_support/study_skills_information/sq3r_reading-study_system.html 
+2(Logsdon, 2020), https://www.verywellfamily.com/strategy-improves-reading-comprehension-2162266 
 
 ## The Feynman Technique
 
@@ -739,8 +739,8 @@ What makes this method of study unique is Step 2. Many descriptions of this tech
 In the act of explaining things to children, we change our language to make things more simple. For example, when discussing a Brute Force Attack2 with another professional, we might quickly devolve into a discussion on the massive computational power needed to crack a certain key. While explaining it to a child, we could simply say "it's a way to keep guessing lots and lots of passwords until, hopefully, one of them works."
 
 The explanation itself isn't as important as the work the brain has to do to wrestle with the concepts and make them understandable outside of jargon. Similarly, when it's very difficult for us to break something down in this manner, that may be a sign that we don't understand it very well yet ourselves. All of this work helps us increase our own understanding.
-1(Farnam Street, 2022), https://fs.blog/feynman-technique/ ↩︎
-2(Wikipedia, 2022), https://en.wikipedia.org/wiki/Brute-force_attack ↩︎
+1(Farnam Street, 2022), https://fs.blog/feynman-technique/ 
+2(Wikipedia, 2022), https://en.wikipedia.org/wiki/Brute-force_attack 
 
 # Advice and Suggestions on Exams
 
@@ -786,10 +786,10 @@ We previously mentioned the Try Harder mindset to describe resilience and persis
 
 The second learner in this example is still being honest about their understanding, but they are now opening the door to be successful in the future. This one small word can be incredibly powerful.
 
-1(Kaplan, 2023), https://www.kaptest.com/study/bar/getting-mentally-prepared-for-the-bar/ ↩︎
-2(Burgess, 2016), https://ms-jd.org/blog/article/dealing-with-bar-exam-stress-and-anxiety ↩︎
-3(ABA Law learner Division, 2022), https://www.americanbar.org/groups/gpsolo/publications/gp_solo/2022/september-october/healthy-lifestyle-tips-lawyers-maintain-wellness-well-being/ ↩︎
-4(Dweck, 2015), https://www.edweek.org/leadership/opinion-carol-dweck-revisits-the-growth-mindset/2015/09 ↩︎
+1(Kaplan, 2023), https://www.kaptest.com/study/bar/getting-mentally-prepared-for-the-bar/ 
+2(Burgess, 2016), https://ms-jd.org/blog/article/dealing-with-bar-exam-stress-and-anxiety 
+3(ABA Law learner Division, 2022), https://www.americanbar.org/groups/gpsolo/publications/gp_solo/2022/september-october/healthy-lifestyle-tips-lawyers-maintain-wellness-well-being/ 
+4(Dweck, 2015), https://www.edweek.org/leadership/opinion-carol-dweck-revisits-the-growth-mindset/2015/09 
 
 
 ## Knowing when you're ready
@@ -820,8 +820,8 @@ The first item, preparing for the exam, is tied to everything we've covered else
 Second, we recommend understanding the exam. The OffSec help site provides detailed descriptions of each exam, including what exam takers can expect and useful tips about how to approach enumeration tasks or submit proof that you were able to perform the required tasks. These exam descriptions are available alongside other course-specific help items.1
 
 In addition to this particular resource, there are webinars,2 searchable blog posts, and YouTube videos of former learners reviewing their exam experiences. Heading into the exam with a clear understanding about what exactly it entails will not only reduce stress, but also improve performance.
-1(OffSec, 2022), https://help.offsec.com/hc/en-us/categories/6965809783316-Course-Specific-Resources-for-Offsec-learners ↩︎
-2(OffSec, 2022), https://www.youtube.com/watch?v=griDEeIcXQc ↩︎
+1(OffSec, 2022), https://help.offsec.com/hc/en-us/categories/6965809783316-Course-Specific-Resources-for-Offsec-learners 
+2(OffSec, 2022), https://www.youtube.com/watch?v=griDEeIcXQc 
 
 # Practical Steps
 
@@ -846,7 +846,7 @@ Planning can also greatly reduce stress levels.1 In essence, planning helps us t
 Unfortunately, the saying, "failing to plan is planning to fail" is often true, and we can sometimes set ourselves up for a very emotionally taxing and stressful failure.
 
 Let's spend a bit more time on what exactly that plan might look like.
-1(Peláez, 2011): https://healthland.time.com/2011/05/31/study-25-of-happiness-depends-on-stress-management/ ↩︎
+1(Peláez, 2011): https://healthland.time.com/2011/05/31/study-25-of-happiness-depends-on-stress-management/ 
 
 
 ## Use Time Allotment Strategies 
@@ -861,11 +861,11 @@ Some research2 has suggested that before sleep might be a great time to study. T
 
 If sleep is important for studying, a learner might correctly assume that exercise is as well.4 Intense physical activity increases blood to flow to the brain, and fires neurons in the hippocampus (the center for memory). In addition to generally improving brain health, exercising either before or after studying can be highly beneficial to improving memory and recall.5
 
-1(Pan, 2022), https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/spaced-practice.html ↩︎
-2(Sandoiu, 2018), https://www.medicalnewstoday.com/articles/321161 ↩︎
-3(Massachusetts Institute of Technology, 2019), https://www.sciencedaily.com/releases/2019/10/191001083956.htm ↩︎
-4(Warner, 2006): https://www.webmd.com/diet/news/20061103/exercise-fights-fatigue-boosts-energy ↩︎
-5(Rodriguez, 2015): https://www.scientificamerican.com/article/hit-the-gym-after-studying-to-boost-recall/ ↩︎
+1(Pan, 2022), https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/spaced-practice.html 
+2(Sandoiu, 2018), https://www.medicalnewstoday.com/articles/321161 
+3(Massachusetts Institute of Technology, 2019), https://www.sciencedaily.com/releases/2019/10/191001083956.htm 
+4(Warner, 2006): https://www.webmd.com/diet/news/20061103/exercise-fights-fatigue-boosts-energy 
+5(Rodriguez, 2015): https://www.scientificamerican.com/article/hit-the-gym-after-studying-to-boost-recall/ 
 
 
 ## Narrowing our Focus 
@@ -882,14 +882,13 @@ In cases where it is actually helpful, it's entirely possible that music is bloc
 
 More to the point, interruptions caused by phone alerts, text messages, emails, and individuals who might need our attention are another form of multitasking. Small habits, like putting your phone in airplane mode or choosing a relatively isolated place for study, can help sharpen focus.
 
-1(Smith, Glenberg, and Bjork, 1978) https://link.springer.com/content/pdf/10.3758/BF03197465.pdf ↩︎
-2(Junco and Cotten, 2012), https://www.sciencedirect.com/science/article/abs/pii/S036013151100340X ↩︎
-3(Bradberry, 2014), https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/?sh=3cdbceba56ee ↩︎
-4(Atchley, 2010), https://hbr.org/2010/12/you-cant-multi-task-so-stop-tr ↩︎
-5(Hurt, 2021), https://www.discovermagazine.com/mind/why-multitasking-does-more-harm-than-good ↩︎
-6(Busch, 2018), https://www.theguardian.com/teacher-network/2018/mar/14/sound-how-listening-music-hinders-learning-lessons-research ↩︎
-7(Thompson, Schellenberg, Letnic, 2011), https://www.utm.utoronto.ca/~w3psygs/ThompsonEtAl2012.pdf ↩︎
-
+1(Smith, Glenberg, and Bjork, 1978) https://link.springer.com/content/pdf/10.3758/BF03197465.pdf 
+2(Junco and Cotten, 2012), https://www.sciencedirect.com/science/article/abs/pii/S036013151100340X 
+3(Bradberry, 2014), https://www.forbes.com/sites/travisbradberry/2014/10/08/multitasking-damages-your-brain-and-career-new-studies-suggest/?sh=3cdbceba56ee 
+4(Atchley, 2010), https://hbr.org/2010/12/you-cant-multi-task-so-stop-tr 
+5(Hurt, 2021), https://www.discovermagazine.com/mind/why-multitasking-does-more-harm-than-good 
+6(Busch, 2018), https://www.theguardian.com/teacher-network/2018/mar/14/sound-how-listening-music-hinders-learning-lessons-research 
+7(Thompson, Schellenberg, Letnic, 2011), https://www.utm.utoronto.ca/~w3psygs/ThompsonEtAl2012.pdf 
 
 ## Pick a Strategy 
 
@@ -911,8 +910,8 @@ Finally, there is something to be said for the camaraderie and the sheer enjoyme
 
 OffSec learners may want to reach out to local information security groups or coworkers to create their own study cohort. The OffSec Discord server also provides a way to collaborate and learn together with other learners across the globe.2 Discord participants also have access to course alumni, OffSec learner Mentors, and staff.
 
-1(Washington University of St. Louis, 2020), https://ctl.wustl.edu/resources/benefits-of-group-work/ ↩︎
-2(OffSec, 2022), https://offs.ec/discord ↩︎
+1(Washington University of St. Louis, 2020), https://ctl.wustl.edu/resources/benefits-of-group-work/ 
+2(OffSec, 2022), https://offs.ec/discord 
 
 ## Study Your Own Studies 
 

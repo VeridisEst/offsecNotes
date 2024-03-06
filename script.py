@@ -2,6 +2,7 @@
 
 import time
 import os
+import subprocess
 
 print('Time to unpack all this mess')
 
@@ -35,6 +36,7 @@ while answer not in ("Y", "N", "n", "y"):
         print ("Please input Y or N, I am not smart enough to program these kinds of exceptions.") 
 
 print("Now, for the linting..")
-print("UNDER CONSTRUCTION \n ...")
+os.system("cd docs && sh lint.sh")
+print("Completed!")
 time.sleep(2)
 quit()

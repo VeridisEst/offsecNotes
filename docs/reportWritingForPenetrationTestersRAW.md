@@ -500,3 +500,4 @@ There are many aspects we need to keep in mind during penetration testing and no
 
 Finally, we need to keep in mind who will read the report. The goal should be to make the report useful for all potential audiences within an organization, both technical and non-technical. We can do this by splitting the report up in different parts, using different levels of technical language in each of them. This will ensure that everyone gets an idea of what the outcome of the penetration test really was.
 
+== END OF LINE == 
