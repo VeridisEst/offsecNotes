@@ -12,7 +12,7 @@ while answer not in ("Y", "N", "n", "y"):
     if answer == "N" or answer == "n":
         installAnswer = None
         while installAnswer not in ("Y", "N", "n", "y"):
-            installAnswer == input("Do you want them to? Y/N: ")
+            installAnswer = input("Do you want them to? Y/N: ")
             if installAnswer == "Y" or installAnswer == "y":
                 os.system("sudo apt install pandoc")
                 os.system("git clone https://github.com/elasticdog/transcrypt.git")           
