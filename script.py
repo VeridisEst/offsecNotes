@@ -10,7 +10,22 @@ answer = None
 while answer not in ("Y", "N", "n", "y"):
     answer = input("Dependencies are: \nPandoc and Transcrypt \nAre they installed?\n Y/N: ")
     if answer == "N" or answer == "n":
-        print("Terminating\n...")
+        installAnswer = None
+        while installAnswer not in ("Y", "N", "n", "y"):
+            istallAnswer == input("Do you want them to? Y/N: ")
+            if installAnswer == "Y" or installAnswer == "y":
+                os.system("sudo apt install pandoc")
+                os.system("git clone https://github.com/elasticdog/transcrypt.git")           
+                os.system("cd transcrypt")           
+                os.system("sudo ln -s ${PWD}/transcrypt /usr/local/bin/transcrypt")           
+                os.system("cd ..")           
+                print("Installed!")
+            elif installAnswer == "N" or installAnswer == "n":
+                print("Too bad. \nTerminating.")
+                time.sleep(2)
+                quit()
+            else: 
+                print("I don't know how to do what you just asked me to...")
         time.sleep(2)
         quit()
     elif answer == "Y" or answer == "y":
